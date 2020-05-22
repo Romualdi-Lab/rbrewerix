@@ -1,0 +1,13 @@
+Package: rbrewerix
+Type: Package
+Title: Handle brewerIX downstream analyses
+Version: 0.2.0
+Author: Paolo Martini
+Maintainer: Paolo Martini <paolo.cavei@gmail.com>
+Description: Ensembl of functions to parse brewerIX output and create plots.
+License: AGPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.0
+Suggests: 
+    testthat
